@@ -18,7 +18,7 @@ We want to detect objects in Youtube videos. Then, we want to highlight when the
 
 ## File structure:
 
-* **Data**: Our data was read and processed through *preprocessing.py*, from the *src* folder in order to apply machine learning algorithms. 
+* **Data**: Our data is created by running YTVidTFrame.py. Becuase our files are more than 2.64 GB, we could not uplaod it to GIT or Google Drive. 
 
 
 * **Analysis**
