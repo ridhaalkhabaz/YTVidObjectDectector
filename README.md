@@ -23,10 +23,12 @@ We want to detect objects in Youtube videos. Then, we want to highlight when the
 
 ## File structure:
 
-* **Data**: Our data is from a youtube video that is located in the /videos folder. We use roboflow and some python scripts, like YTVidTFrame.py to create frames.  
+* **Data**: Our data is from a youtube video that is located in the /videos folder. We use roboflow and some python scripts, like YTVidTFrame.py to create frames.
+* 		We could not upload the resulting data set because it is too big for git hub.   
 
 
 * **Model** In YOLOv4_Training_and_Creating.ipynb, we create and train our YOLOv4 model. In addition, we test it against multiple images. 
+* 	This takes at least 6 hours to run.
 	
 
 
