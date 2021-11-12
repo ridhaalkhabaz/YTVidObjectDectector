@@ -13,15 +13,20 @@ We want to detect objects in Youtube videos. Then, we want to highlight when the
 
 ### Relevant Publications
 * https://doi.org/10.32470/CCN.2018.1137-0
+* https://arxiv.org/pdf/2004.10934.pdf
+* https://ccneuro.org/2018/proceedings/1137.pdf
+* https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_Towards_High_Performance_CVPR_2018_paper.pdf
+* https://openaccess.thecvf.com/content_cvpr_2016/papers/Kang_Object_Detection_From_CVPR_2016_paper.pdf
+* https://arxiv.org/pdf/1506.02640.pdf
 
 
 
 ## File structure:
 
-* **Data**: Our data is created by running YTVidTFrame.py. Becuase our files are more than 2.64 GB, we could not uplaod it to GIT or Google Drive. 
+* **Data**: Our data is from a youtube video that is located in the /videos folder. We use roboflow and some python scripts, like YTVidTFrame.py to create frames.  
 
 
-* **Analysis**
+* **Model** In YOLOv4_Training_and_Creating.ipynb, we create and train our YOLOv4 model. In addition, we test it against multiple images. 
 	
 
 
