@@ -27,11 +27,13 @@ We want to detect objects in Youtube videos. Then, we want to highlight when the
 	* We could not upload the resulting data set because it is too big for git hub.   
 
 
-* **Model** In YOLOv4_Training_and_Creating.ipynb, we create and train our YOLOv4 model. In addition, we test it against multiple images. 
+* **Model** In YOLOv4_Training_and_Creating_Deploying.ipynb, we create and train our YOLOv4 model. In addition, we test it against multiple images. 
+        * There you can use a link to youtube video to run videos.
 	* This takes at least 6 hours to run.
+	* The best weights are provided by linking a drive folder to google collab. 
 	
 
 
 ## Results
 
-We achiev 92.31 % accuracy in our YOLO classifier. 
+We achieve higher accuracy of 93.75 % in our YOLO classifier. 
