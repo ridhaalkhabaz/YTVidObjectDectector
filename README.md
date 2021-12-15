@@ -30,7 +30,8 @@ We want to detect objects in Youtube videos. Then, we want to detect the object 
 * **Model** In YOLOv4_Training_and_Creating_Deploying.ipynb, we create and train our YOLOv4 model. In addition, we test it against multiple images. 
 	* This takes at least 6 hours to run.
 	* There you can use a link to youtube video to run videos.
-	* The best weights are provided by linking a drive folder to google collab. 
+	* The best weights are provided by the following linek:
+	* 	https://drive.google.com/drive/folders/1k27Xhytpxt7pBebyp2l4Dsv2Q4bsyk6h?usp=sharing 
 	
 
 
