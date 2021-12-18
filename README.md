@@ -21,7 +21,7 @@ We want to detect objects in Youtube videos. Then, we want to detect the object 
 
 
 
-## File structure:
+## File structure
 
 * **Data**: Our data is from a youtube video that is located in the /videos folder. We use roboflow and some python scripts, like YTVidTFrame.py to create frames.
 	* We could not upload the resulting data set because it is too big for git hub.   
